@@ -5,7 +5,7 @@ let correctAnswer = 0;
 
 showQuestion();
 
-//events
+//events add button
 
 document.querySelector('.scoreArea button').addEventListener('click',resetQuiz);
 
